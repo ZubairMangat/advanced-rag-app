@@ -1,0 +1,6 @@
+streamlit
+sentence-transformers
+groq
+PyPDF2
+torch
+numpy
